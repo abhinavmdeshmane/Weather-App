@@ -7,7 +7,7 @@ Hello 👋, I'm `Abhinav Deshmane` at this repository i have created a `Real Tim
 
 |  #  | Projects                                                                                                  | Live Preview                                                                                |
 | :-: | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| 01  | [JavaScript Real Time Weather App](https://https://github.com/abhinavmdeshmane/Weather-App) | [👉 Click Here](https://abhinavmdeshmane.github.io/Weather-App/) |
+| 01  | [JavaScript Real Time Weather App](https://github.com/abhinavmdeshmane/Weather-App) | [👉 Click Here](https://abhinavmdeshmane.github.io/Weather-App/) |
 
 
 
